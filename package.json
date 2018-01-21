@@ -1,0 +1,22 @@
+{
+  "name": "simpleexpressapplication",
+  "version": "1.0.0",
+  "description": "this is my project with erika\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dour\u001b[D\u001b[D\u001b[D \u001b[D\u001b[ our project ()\u001b[Derika and juan)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "handlebars",
+    "stuff",
+    "code"
+  ],
+  "author": "Erika, Juan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.11"
+  }
+}
