@@ -20,6 +20,8 @@ be a NATO Phonetic word in the output.
 #### Example
 **Input :**
 > Sam Doe
+
+
 **Output:**
 > Sierra
 > Alfa
