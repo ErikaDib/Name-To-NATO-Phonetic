@@ -24,9 +24,14 @@ be a NATO Phonetic word in the output.
 
 **Output:**
 > Sierra
+
 > Alfa
+
 > Mike
 
+
 > Delta
+
 > Oscar
+
 > Echo
