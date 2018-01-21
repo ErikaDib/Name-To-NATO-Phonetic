@@ -1,5 +1,5 @@
 # Name to NATO Phonetic Alphabet
-----------------------------------
+
 ### How it works
 Enter your name into the Textfield
 For each letter of your name, there will
